@@ -1,0 +1,11 @@
+#caja{
+    width: 250px;
+    height: 250px;
+    background-color: lightblue;
+    transition-property: width;
+    transition-duration: 5s;
+}
+
+#caja:hover{
+    width: 600px;
+}
